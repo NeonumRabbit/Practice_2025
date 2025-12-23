@@ -1,4 +1,4 @@
-<img width="793" height="812" alt="image" src="https://github.com/user-attachments/assets/fc35f726-2978-4e75-9dc5-ed45e1625dad" /># Practice_2025
+/># Practice_2025
 This repository making for college
 $ cd ~/
 $ mkdir Practice_2025 && cd Practice_2025
